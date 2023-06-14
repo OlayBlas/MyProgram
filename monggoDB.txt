@@ -1,0 +1,1 @@
+CONN_STRING=mongodb+srv://olay:Mercury10@cluster0.kid26jk.mongodb.net/?retryWrites=true&w=majority
